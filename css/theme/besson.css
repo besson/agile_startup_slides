@@ -204,10 +204,6 @@ body {
 /*********************************************
  * IMAGES
  *********************************************/
-.reveal section img {
-  background: rgba(255, 255, 255, 0.12);
-}
-
 .reveal a img {
   -webkit-transition: all 0.15s linear;
   -moz-transition: all 0.15s linear;
