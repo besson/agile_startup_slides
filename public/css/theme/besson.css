@@ -264,6 +264,14 @@ body {
   font-size: 70px;
 }
 
+.reveal .soft-highlight {
+  font-size: 50px;
+}
+
 .reveal .thank_you {
   font-size: 140px;
+}
+
+.reveal .p_center {
+  text-align: center;
 }
